@@ -53,4 +53,4 @@ npm run format
 npm run format:check
 ```
 
-project url: https://roadmap.sh/projects/github-user-activity
+project url: https://github.com/roadmap-sh-traning/proxy-cache
